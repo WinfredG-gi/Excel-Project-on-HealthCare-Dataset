@@ -7,38 +7,42 @@ I contributed to data cleaning, formula application, and visualization design, e
 
 Project Highlights:
 
-*Cleaned and standardized raw healthcare data (removed duplicates, formatted dates, handled missing values).
+Cleaned and standardized raw healthcare data (removed duplicates, formatted dates, handled missing values).
 
-*Applied advanced Excel formulas: IF, VLOOKUP, ROUND, statistical and date functions.
+-Applied advanced Excel formulas: IF, VLOOKUP, ROUND, statistical and date functions.
 
-*Built dynamic PivotTables and PivotCharts to visualize trends across demographics and diagnoses.
+-Built dynamic PivotTables and PivotCharts to visualize trends across demographics and diagnoses.
 
-*Improved data readability through structured formatting and conditional highlighting.
+-Improved data readability through structured formatting and conditional highlighting.
 
 Key Insights & Learnings
 
 Through our analysis, we uncovered several patterns in patient behavior, treatment costs, and provider performance:
 
-*Patient Demographics:
+-Patient Demographics:
 The hospital serves a balanced gender population, but the elderly group dominates visits, indicating higher healthcare utilization among older patients.
-*Seasonal Trends:
+
+-Seasonal Trends:
 Patient visits peaked in September, suggesting possible seasonal or operational influences on hospital workload.
-*Cost Drivers:
+
+-Cost Drivers:
 Migraine, cancer, COVID-19, and hypertension emerged as the top diagnoses driving up total healthcare costs. These conditions require intensive care and long treatment durations.
-*Treatment Insights:
+
+-Treatment Insights:
 Surgery and therapy accounted for the highest costs, reflecting their complex and resource-heavy nature.
-*Provider Impact:
+
+-Provider Impact:
 A few doctors—particularly Dr. Wong, Dr. Lee, and Dr. Patel—handled a disproportionately high number of patients and cases, especially among the elderly, highlighting potential workload and resource distribution issues.
 
 What We Learned
 
-*Working as a team taught us how structured data cleaning, thoughtful analysis, and visualization can uncover critical operational insights from messy healthcare records. Beyond building dashboards, we focused on:
+-Working as a team taught us how structured data cleaning, thoughtful analysis, and visualization can uncover critical operational insights from messy healthcare records. Beyond building dashboards, we focused on:
 
-*Asking the right analytical questions before visualizing.
+-Asking the right analytical questions before visualizing.
 
-*Connecting data patterns to real-world implications for healthcare management.
+-Connecting data patterns to real-world implications for healthcare management.
 
-*Presenting insights that can support strategic decisions like optimizing doctor allocation, understanding patient load by age, and identifying cost-heavy treatments.
+-Presenting insights that can support strategic decisions like optimizing doctor allocation, understanding patient load by age, and identifying cost-heavy treatments.
 
 Collaboration:
 Completed as part of a group project, where each member contributed to different stages of cleaning, analysis, and presentation.
